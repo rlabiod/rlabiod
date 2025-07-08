@@ -5,12 +5,12 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [Linkedin](https://fr.linkedin.com/in/rlabiod)
+- 📫 How to reach me: [LinkedIn](https://fr.linkedin.com/in/rlabiod)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 For details, run:
 
 ```bash
-curl cv.rlabiod.fr
+curl cv.labiod.dev
 ```
