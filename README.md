@@ -10,3 +10,8 @@ For details, run:
 ```bash
 curl cv.labiod.dev
 ```
+
+## Languages this week
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
