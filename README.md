@@ -4,12 +4,6 @@
 
 I’m Ruben, a software engineer working at [Ingenico](https://ingenico.com).
 
-For details, run:
-
-```
-curl cv.labiod.dev
-```
-
 ## Languages this week
 
 <!--START_SECTION:waka-->
