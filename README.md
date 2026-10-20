@@ -5,8 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 17 mins         ████████████████████████░   96.39 %
-Text         7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+TypeScript       4 hrs 35 mins         ███████████████░░░░░░░░░░   59.64 %
+Markdown         1 hr 11 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+GitIgnore file   53 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Bash             41 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+JSON             10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
